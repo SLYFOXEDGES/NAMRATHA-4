@@ -63,6 +63,7 @@ TO GENERATE JAR FILE
 java -jar target/PROJECT-4-1.0-SNAPSHOT.jar(PROJECT NAME.jar)
 
 CONVERT INTO GRADLE 
+
 gradle init --type pom 
 (build.gradle file appears )
 
