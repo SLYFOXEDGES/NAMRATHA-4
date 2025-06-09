@@ -47,14 +47,6 @@ ADD THESE CODES IN POM.XML
 
 ADD THESE CODES IN MAIN.JAVA 
 
-package org;
-
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello from NAMRATHA!");
-    }
-}
-
 AFTER THIS RUN IN COMPILER 
 mvn clean compile 
 mvn package
